@@ -1,0 +1,11 @@
+
+  .card {
+    border: 1px solid black;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+  } 
+  div {
+    display: flex;
+    align-items: center;
+  }
